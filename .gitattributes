@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+data/Word2Vect_Spanish.txt filter=lfs diff=lfs merge=lfs -text
